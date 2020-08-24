@@ -18,3 +18,4 @@ C:\Users\User\Desktop\webAPi\obj\Debug\netcoreapp3.1\staticwebassets\webAPi.Stat
 C:\Users\User\Desktop\webAPi\obj\Debug\netcoreapp3.1\webAPi.dll
 C:\Users\User\Desktop\webAPi\obj\Debug\netcoreapp3.1\webAPi.pdb
 C:\Users\User\Desktop\webAPi\obj\Debug\netcoreapp3.1\webAPi.genruntimeconfig.cache
+C:\Users\User\Desktop\webAPi\bin\Debug\netcoreapp3.1\blah.json

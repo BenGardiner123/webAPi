@@ -15,6 +15,10 @@ namespace webApi.Controllers
             return parseMe;
         }
 
+        [HttpPost]
+        public string Post([FromBody]Person p){
+            return p.Name + " " + p.ID;
+        }
         
     }
 }
